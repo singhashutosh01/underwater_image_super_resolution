@@ -58,9 +58,9 @@ Training:
 * To train the model run /Code/SRDRM/train_genarative_models_2x.py.
 
 Testing: 
-*Run /Code/SRDRM/test_SR_2x.py to test on test images.
-*Set the path to trained generator of SRDRM model in the test_SR_2x.py file.
-*Super resolved UW images can be found in output directory set.
+* Run /Code/SRDRM/test_SR_2x.py to test on test images.
+* Set the path to trained generator of SRDRM model in the test_SR_2x.py file.
+* Super resolved UW images can be found in output directory set.
 
 ## 3. Performance Evaluation(PE)
 * Run /Code/PE/measure.py to find PSNR and SSIM quality metric for performance measure.
